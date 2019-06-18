@@ -1,0 +1,7 @@
+html {
+    box-sizing: border-box;
+    background: url('https://pm1.narvii.com/6283/d67096b3e0e22e236cd00057a071d1bedafe0e3d_hq.jpg') center no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    
+  }
